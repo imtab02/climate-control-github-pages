@@ -10,6 +10,7 @@ function App() {
         <div className='main-page'>
             <p>Current temperature in room: </p>
             <MQTT />
+            <div>Deployed from github</div>
         </div>
     </div>
     );
